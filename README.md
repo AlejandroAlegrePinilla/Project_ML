@@ -20,10 +20,10 @@ El objetivo es predecir las calificaciones en matemáticas usando diferentes mod
 Se entrenaron diferentes modelos para predecir las calificaciones en matemáticas:
 
 - **📈 Regresión Lineal**: Modelo de regresión simple.
-- ![image](https://github.com/user-attachments/assets/d852ca2d-da6b-4d70-a10f-13b9c75b228f)
+  ![image](https://github.com/user-attachments/assets/d852ca2d-da6b-4d70-a10f-13b9c75b228f)
 - **🌲 Random Forest**: Un modelo de ensamble basado en árboles de decisión.
-- ![image](https://github.com/user-attachments/assets/002a7467-133e-432b-abd4-d350faecbe4f)
--Para la evaluación se utilizaron las siguientes métricas:
+  ![image](https://github.com/user-attachments/assets/002a7467-133e-432b-abd4-d350faecbe4f)
+- Para la evaluación se utilizaron las siguientes métricas:
 - 📉 **Mean Absolute Error (MAE)**: Media del valor absoluto de los errores de predicción.
 - 📊 **R² Score**: Proporción de la varianza explicada por el modelo.
 
