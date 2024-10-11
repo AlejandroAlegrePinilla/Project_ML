@@ -30,10 +30,10 @@ Para la evaluación se utilizaron las siguientes métricas:
 ## 🏅 Comparación de los Modelos
 
   ![image](https://github.com/user-attachments/assets/59caf780-d84b-41ae-8b7d-b2bc8996f1d7)
-- **📈 Regresión Lineal**: Proporcionó el mejor desempeño en términos de R² y MAE.
+ **📈 Regresión Lineal**: Proporcionó el mejor desempeño en términos de R² y MAE.
 - MAE: 3.59
 - R2 Score: 0.89
-- **🌲 Random Forest**: Aunque mejoró ligeramente en términos de reducción de error, no superó a la regresión lineal en este dataset.
+ **🌲 Random Forest**: Aunque mejoró ligeramente en términos de reducción de error, no superó a la regresión lineal en este dataset.
 - MAE: 4.22
 - R2 Score: 0.86
 
